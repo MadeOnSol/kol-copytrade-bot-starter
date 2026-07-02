@@ -12,5 +12,5 @@
   "dependencies": { "ws": "^8.18.0" },
   "keywords": ["solana", "kol", "copy-trading", "trading-bot", "smart-money", "memecoin", "paper-trading", "websocket", "madeonsol"],
   "license": "MIT",
-  "repository": { "type": "git", "url": "https://github.com/LamboPoewert/kol-copytrade-bot-starter" }
+  "repository": { "type": "git", "url": "https://github.com/madeonsol/kol-copytrade-bot-starter" }
 }

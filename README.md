@@ -9,7 +9,7 @@ Powered by the [MadeOnSol](https://madeonsol.com) KOL intelligence API — 1,000
 ## Quickstart (5 minutes)
 
 ```bash
-git clone https://github.com/LamboPoewert/kol-copytrade-bot-starter
+git clone https://github.com/madeonsol/kol-copytrade-bot-starter
 cd kol-copytrade-bot-starter
 npm install
 
