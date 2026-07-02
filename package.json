@@ -1,0 +1,16 @@
+{
+  "name": "kol-copytrade-bot-starter",
+  "version": "1.0.0",
+  "description": "Paper-trade live Solana KOL (smart money) trades in real time — MadeOnSol API starter",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "node test.mjs"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": { "ws": "^8.18.0" },
+  "keywords": ["solana", "kol", "copy-trading", "trading-bot", "smart-money", "memecoin", "paper-trading", "websocket", "madeonsol"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/LamboPoewert/kol-copytrade-bot-starter" }
+}
