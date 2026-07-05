@@ -4,6 +4,8 @@ Watch **live smart-money (KOL) trades on Solana** and paper-trade them in real t
 
 Powered by the [MadeOnSol](https://madeonsol.com) KOL intelligence API — 1,000+ tracked KOL wallets, trades indexed with market cap at the exact moment of the swap.
 
+📖 **Full tutorial:** [Copy-trade Solana KOL wallets — build a paper-trading bot in 5 minutes](https://madeonsol.com/blog/copy-trade-solana-kol-wallets-bot-tutorial)
+
 > **Paper trading only.** MadeOnSol is a data API — it never executes trades, holds no funds, and neither does this starter. Fork it into whatever you want.
 
 ## Quickstart (5 minutes)
